@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC4067
+F http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf
+$ENDCMP
+#
+$CMP QRE1113
+F http://www.farnell.com/datasheets/2246354.pdf?_ga=1.103371456.1135125372.1488710504
+$ENDCMP
+#
+$CMP SWITCH_INV
+F http://www.farnell.com/datasheets/1810474.pdf?_ga=1.114529351.1135125372.1488710504
+$ENDCMP
+#
+$CMP Shifter
+F https://www.pololu.com/product/2595
+$ENDCMP
+#
+$CMP TB6612FG
+F https://www.pololu.com/product/713
+$ENDCMP
+#
+$CMP qre1113
+F http://www.farnell.com/datasheets/2246354.pdf?_ga=1.103371456.1135125372.1488710504
+$ENDCMP
+#
+#End Doc Library
