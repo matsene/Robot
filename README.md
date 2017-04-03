@@ -1,2 +1,1 @@
-# Robot
-Projekt pri predmetu Mehatronski sistemi
+# MS-vaje
